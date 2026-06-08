@@ -16,3 +16,7 @@ An interactive and dynamic Excel dashboard designed to analyze and visualize ret
 ## 📂 How to View
 1. Download the `Retail Dashboard Practice.xlsx` file from this repository.
 2. Open it in Microsoft Excel (Desktop app recommended for full slicer functionality).
+
+   
+## 
+Screenshot 2026-06-08 134511.png
